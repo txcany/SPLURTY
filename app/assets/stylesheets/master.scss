@@ -1,5 +1,7 @@
 @import "bootstrap";
 
+@import url('https://fonts.googleapis.com/css?family=Quattrocento+Sans&display=swap');
+
 
 .clear {
   clear: both;
@@ -48,4 +50,13 @@ header {
 
 hr {
   clear:both;
+}
+
+h1 {
+  font-family: 'Quattrocento Sans', sans-serif;
+}
+
+
+h2 {
+  font-family: 'Quattrocento Sans', sans-serif;
 }
